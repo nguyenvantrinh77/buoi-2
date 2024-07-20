@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2033210496_NguyenVanTrinh_Buoi2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0F06CE-3051-4F2C-8874-E41124EE2207}|megersor\\megersor.csproj|d:\\2033210496_nguyenvantrinh_buoi2\\megersor\\megersort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0F06CE-3051-4F2C-8874-E41124EE2207}|megersor\\megersor.csproj|solutionrelative:megersor\\megersort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7B3496-A534-4216-B4AD-342E4371699F}|Nhan2songuyenlon\\Nhan2songuyenlon.csproj|d:\\2033210496_nguyenvantrinh_buoi2\\nhan2songuyenlon\\nhan2songuyenlon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7B3496-A534-4216-B4AD-342E4371699F}|Nhan2songuyenlon\\Nhan2songuyenlon.csproj|solutionrelative:nhan2songuyenlon\\nhan2songuyenlon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7B3496-A534-4216-B4AD-342E4371699F}|Nhan2songuyenlon\\Nhan2songuyenlon.csproj|d:\\2033210496_nguyenvantrinh_buoi2\\nhan2songuyenlon\\nhan2songuyenlon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0E7B3496-A534-4216-B4AD-342E4371699F}|Nhan2songuyenlon\\Nhan2songuyenlon.csproj|solutionrelative:nhan2songuyenlon\\nhan2songuyenlon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20204323-C99F-450C-9334-8026EA27FEC5}|timkiemnhiphan\\timkiemnhiphan.csproj|d:\\2033210496_nguyenvantrinh_buoi2\\timkiemnhiphan\\timkimnhiphan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20204323-C99F-450C-9334-8026EA27FEC5}|timkiemnhiphan\\timkiemnhiphan.csproj|solutionrelative:timkiemnhiphan\\timkimnhiphan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2033210496_NguyenVanTrinh_Buoi2\\megersort\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:megersort\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 178,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "megersort.cs",
+              "DocumentMoniker": "D:\\2033210496_NguyenVanTrinh_Buoi2\\megersor\\megersort.cs",
+              "RelativeDocumentMoniker": "megersor\\megersort.cs",
+              "ToolTip": "D:\\2033210496_NguyenVanTrinh_Buoi2\\megersor\\megersort.cs",
+              "RelativeToolTip": "megersor\\megersort.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAWwCAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T13:14:35.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2033210496_NguyenVanTrinh_Buoi2\\megersort\\Program.cs",
+              "RelativeDocumentMoniker": "megersort\\Program.cs",
+              "ToolTip": "D:\\2033210496_NguyenVanTrinh_Buoi2\\megersort\\Program.cs",
+              "RelativeToolTip": "megersort\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T13:13:19.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "nhan2songuyenlon.cs",
+              "DocumentMoniker": "D:\\2033210496_NguyenVanTrinh_Buoi2\\Nhan2songuyenlon\\nhan2songuyenlon.cs",
+              "RelativeDocumentMoniker": "Nhan2songuyenlon\\nhan2songuyenlon.cs",
+              "ToolTip": "D:\\2033210496_NguyenVanTrinh_Buoi2\\Nhan2songuyenlon\\nhan2songuyenlon.cs",
+              "RelativeToolTip": "Nhan2songuyenlon\\nhan2songuyenlon.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAWwBoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T15:34:43.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "timkimnhiphan.cs",
+              "DocumentMoniker": "D:\\2033210496_NguyenVanTrinh_Buoi2\\timkiemnhiphan\\timkimnhiphan.cs",
+              "RelativeDocumentMoniker": "timkiemnhiphan\\timkimnhiphan.cs",
+              "ToolTip": "D:\\2033210496_NguyenVanTrinh_Buoi2\\timkiemnhiphan\\timkimnhiphan.cs",
+              "RelativeToolTip": "timkiemnhiphan\\timkimnhiphan.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAWwC4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T15:36:32.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nhan2songuyenlon.csproj",
+              "DocumentMoniker": "D:\\2033210496_NguyenVanTrinh_Buoi2\\Nhan2songuyenlon\\Nhan2songuyenlon.csproj",
+              "RelativeDocumentMoniker": "Nhan2songuyenlon\\Nhan2songuyenlon.csproj",
+              "ToolTip": "D:\\2033210496_NguyenVanTrinh_Buoi2\\Nhan2songuyenlon\\Nhan2songuyenlon.csproj",
+              "RelativeToolTip": "Nhan2songuyenlon\\Nhan2songuyenlon.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-19T15:34:31.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

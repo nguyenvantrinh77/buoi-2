@@ -1,0 +1,14 @@
+D:\2033210496_NguyenVanTrinh_Buoi2\Nhan2songuyenlon\bin\Debug\net8.0\Nhan2songuyenlon.exe
+D:\2033210496_NguyenVanTrinh_Buoi2\Nhan2songuyenlon\bin\Debug\net8.0\Nhan2songuyenlon.deps.json
+D:\2033210496_NguyenVanTrinh_Buoi2\Nhan2songuyenlon\bin\Debug\net8.0\Nhan2songuyenlon.runtimeconfig.json
+D:\2033210496_NguyenVanTrinh_Buoi2\Nhan2songuyenlon\bin\Debug\net8.0\Nhan2songuyenlon.dll
+D:\2033210496_NguyenVanTrinh_Buoi2\Nhan2songuyenlon\bin\Debug\net8.0\Nhan2songuyenlon.pdb
+D:\2033210496_NguyenVanTrinh_Buoi2\Nhan2songuyenlon\obj\Debug\net8.0\Nhan2songuyenlon.GeneratedMSBuildEditorConfig.editorconfig
+D:\2033210496_NguyenVanTrinh_Buoi2\Nhan2songuyenlon\obj\Debug\net8.0\Nhan2songuyenlon.AssemblyInfoInputs.cache
+D:\2033210496_NguyenVanTrinh_Buoi2\Nhan2songuyenlon\obj\Debug\net8.0\Nhan2songuyenlon.AssemblyInfo.cs
+D:\2033210496_NguyenVanTrinh_Buoi2\Nhan2songuyenlon\obj\Debug\net8.0\Nhan2songuyenlon.csproj.CoreCompileInputs.cache
+D:\2033210496_NguyenVanTrinh_Buoi2\Nhan2songuyenlon\obj\Debug\net8.0\Nhan2songuyenlon.dll
+D:\2033210496_NguyenVanTrinh_Buoi2\Nhan2songuyenlon\obj\Debug\net8.0\refint\Nhan2songuyenlon.dll
+D:\2033210496_NguyenVanTrinh_Buoi2\Nhan2songuyenlon\obj\Debug\net8.0\Nhan2songuyenlon.pdb
+D:\2033210496_NguyenVanTrinh_Buoi2\Nhan2songuyenlon\obj\Debug\net8.0\Nhan2songuyenlon.genruntimeconfig.cache
+D:\2033210496_NguyenVanTrinh_Buoi2\Nhan2songuyenlon\obj\Debug\net8.0\ref\Nhan2songuyenlon.dll

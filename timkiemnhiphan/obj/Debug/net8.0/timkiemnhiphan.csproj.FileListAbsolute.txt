@@ -1,0 +1,14 @@
+D:\2033210496_NguyenVanTrinh_Buoi2\timkiemnhiphan\bin\Debug\net8.0\timkiemnhiphan.exe
+D:\2033210496_NguyenVanTrinh_Buoi2\timkiemnhiphan\bin\Debug\net8.0\timkiemnhiphan.deps.json
+D:\2033210496_NguyenVanTrinh_Buoi2\timkiemnhiphan\bin\Debug\net8.0\timkiemnhiphan.runtimeconfig.json
+D:\2033210496_NguyenVanTrinh_Buoi2\timkiemnhiphan\bin\Debug\net8.0\timkiemnhiphan.dll
+D:\2033210496_NguyenVanTrinh_Buoi2\timkiemnhiphan\bin\Debug\net8.0\timkiemnhiphan.pdb
+D:\2033210496_NguyenVanTrinh_Buoi2\timkiemnhiphan\obj\Debug\net8.0\timkiemnhiphan.GeneratedMSBuildEditorConfig.editorconfig
+D:\2033210496_NguyenVanTrinh_Buoi2\timkiemnhiphan\obj\Debug\net8.0\timkiemnhiphan.AssemblyInfoInputs.cache
+D:\2033210496_NguyenVanTrinh_Buoi2\timkiemnhiphan\obj\Debug\net8.0\timkiemnhiphan.AssemblyInfo.cs
+D:\2033210496_NguyenVanTrinh_Buoi2\timkiemnhiphan\obj\Debug\net8.0\timkiemnhiphan.csproj.CoreCompileInputs.cache
+D:\2033210496_NguyenVanTrinh_Buoi2\timkiemnhiphan\obj\Debug\net8.0\timkiemnhiphan.dll
+D:\2033210496_NguyenVanTrinh_Buoi2\timkiemnhiphan\obj\Debug\net8.0\refint\timkiemnhiphan.dll
+D:\2033210496_NguyenVanTrinh_Buoi2\timkiemnhiphan\obj\Debug\net8.0\timkiemnhiphan.pdb
+D:\2033210496_NguyenVanTrinh_Buoi2\timkiemnhiphan\obj\Debug\net8.0\timkiemnhiphan.genruntimeconfig.cache
+D:\2033210496_NguyenVanTrinh_Buoi2\timkiemnhiphan\obj\Debug\net8.0\ref\timkiemnhiphan.dll

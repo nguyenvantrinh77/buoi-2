@@ -1,0 +1,14 @@
+D:\2033210496_NguyenVanTrinh_Buoi2\megersor\bin\Debug\net8.0\megersor.exe
+D:\2033210496_NguyenVanTrinh_Buoi2\megersor\bin\Debug\net8.0\megersor.deps.json
+D:\2033210496_NguyenVanTrinh_Buoi2\megersor\bin\Debug\net8.0\megersor.runtimeconfig.json
+D:\2033210496_NguyenVanTrinh_Buoi2\megersor\bin\Debug\net8.0\megersor.dll
+D:\2033210496_NguyenVanTrinh_Buoi2\megersor\bin\Debug\net8.0\megersor.pdb
+D:\2033210496_NguyenVanTrinh_Buoi2\megersor\obj\Debug\net8.0\megersor.GeneratedMSBuildEditorConfig.editorconfig
+D:\2033210496_NguyenVanTrinh_Buoi2\megersor\obj\Debug\net8.0\megersor.AssemblyInfoInputs.cache
+D:\2033210496_NguyenVanTrinh_Buoi2\megersor\obj\Debug\net8.0\megersor.AssemblyInfo.cs
+D:\2033210496_NguyenVanTrinh_Buoi2\megersor\obj\Debug\net8.0\megersor.csproj.CoreCompileInputs.cache
+D:\2033210496_NguyenVanTrinh_Buoi2\megersor\obj\Debug\net8.0\megersor.dll
+D:\2033210496_NguyenVanTrinh_Buoi2\megersor\obj\Debug\net8.0\refint\megersor.dll
+D:\2033210496_NguyenVanTrinh_Buoi2\megersor\obj\Debug\net8.0\megersor.pdb
+D:\2033210496_NguyenVanTrinh_Buoi2\megersor\obj\Debug\net8.0\megersor.genruntimeconfig.cache
+D:\2033210496_NguyenVanTrinh_Buoi2\megersor\obj\Debug\net8.0\ref\megersor.dll
